@@ -1,0 +1,38 @@
+/*Estilo de iconos*/
+i.bi{
+    font-size: 50px;
+    color:red;
+}
+i.bi-github{
+    color:green;
+}
+p.logo{
+    font-size: 30px;
+    color:black;
+}
+
+/*Título de FAQ*/
+p.titulo{
+    font-size: 50px;
+    color:beige
+}
+
+/*Botón de las tarjetas*/
+button.btn-primary{
+    margin: 0px 640px;
+    color: whitesmoke;
+    border-radius: 150px;
+    font-size: 20px;
+}
+
+/*Imágenes del párrafo*/
+img.d-block1{
+    max-width: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/*Estilo icono footer*/
+i.bi-balloon-heart{
+    font-size: 90px;
+}
